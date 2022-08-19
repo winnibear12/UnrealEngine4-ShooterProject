@@ -1,6 +1,12 @@
 # UnrealEngine4-ShooterProject
  A simple Shooter game made by Unreal Engine 4 [In progress]
 
+ Currently working on the "Advanced Movement":
+
+ * Character Lean
+ * Character Crouching
+ * Aim Walking
+
 
 ## Project Overview
 
