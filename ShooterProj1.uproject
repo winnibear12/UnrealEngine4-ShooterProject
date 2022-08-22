@@ -1,17 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.27",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "ShooterProj1",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"AIModule"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f4e6c4087e484e08f6bb8673084d73e6ca4a20455fbe34418d3ce7441da8e46
+size 258
