@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Source/ShooterProj1/ShooterProj1.Build.cs",
+		"/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Plugins/Developer/RiderLink/Source/RD/RD.Build.cs",
+		"/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Plugins/Developer/RiderLink/Source/RiderBlueprint/RiderBlueprint.Build.cs",
+		"/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Plugins/Developer/RiderLink/Source/RiderGameControl/RiderGameControl.Build.cs",
+		"/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Plugins/Developer/RiderLink/Source/RiderLink/RiderLink.Build.cs",
+		"/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Plugins/Developer/RiderLink/Source/RiderLogging/RiderLogging.Build.cs",
+		"/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Plugins/Developer/RiderLink/Source/RiderShaderInfoDump/RiderShaderInfoDump.Build.cs",
+		"/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Source/ShooterProj1.Target.cs",
+		"/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Source/ShooterProj1Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

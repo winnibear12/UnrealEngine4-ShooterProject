@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShooterProj1",
+			"Path": "/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Source/ShooterProj1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShooterProj1Editor",
+			"Path": "/Users/winnibear/Documents/Unreal Projects/UnrealEngine4-ShooterProject/Source/ShooterProj1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
